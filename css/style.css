@@ -178,7 +178,7 @@ header .header-content .header-content-inner i:hover{
 .group-services li{
     width: 30%;
     margin-top: 20px;
-    margin-right: 10px;
+    
     padding:40px 0 0 0;
     text-align:center;
 }
@@ -188,6 +188,7 @@ header .header-content .header-content-inner i:hover{
 }/* Used when elements stack in small viewports */
 
 .group-services li article{
+   
     display:block;
     position:relative;
     padding:65px 20px 25px 20px;
